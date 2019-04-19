@@ -44,4 +44,4 @@ describe "fizzbuzz for multiples of 3 and 5" do
     expect(fizzbuzz(30)).to eq "FizzBuzz"
     expect(fizzbuzz(45)).to eq "FizzBuzz"
   end
-  end
+end
